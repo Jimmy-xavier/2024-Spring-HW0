@@ -1,3 +1,9 @@
+Figure 2:
+https://hackmd.io/_uploads/r1uFMFX3p.png
+Figure 3:
+https://hackmd.io/_uploads/rkacGFm2a.png
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
@@ -12,6 +18,8 @@ Foundry consists of:
 ## Documentation
 
 https://book.getfoundry.sh/
+
+
 
 ## Usage
 
