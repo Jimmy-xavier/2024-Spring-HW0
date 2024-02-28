@@ -1,7 +1,10 @@
 Figure 2:
-![Figure 2](https://hackmd.io/_uploads/r1uFMFX3p.png)
+
+![](https://hackmd.io/_uploads/r1uFMFX3p.png)
+
 Figure 3:
-![Figure 2](https://hackmd.io/_uploads/rkacGFm2a.png)
+
+![](https://hackmd.io/_uploads/rkacGFm2a.png)
 
 
 ## Foundry
