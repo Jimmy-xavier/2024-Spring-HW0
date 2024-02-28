@@ -1,3 +1,8 @@
+Figure 2:
+![Figure 2](https://hackmd.io/_uploads/r1uFMFX3p.png)
+Figure 3:
+![Figure 3](https://hackmd.io/_uploads/rkacGFm2a.png)
+
 # 2024-Spring-HW0
 
 All the detailed specified in Homework 0 documentation.
